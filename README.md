@@ -42,7 +42,7 @@ Master of Computer Science and Technology, Department of Computer Science and Te
 - Introduced the idea to reconstruct joint rotation using full-body pressure data.
 - Generated 3D pose labels using linear triangulation and non-linear optimization.
 - Modelled human poses by utilizing Inverse Kinematics and Forward Kinematics.
-- Designed and Implemented a **pose estimation method** based on full-body pressure data, which demonstrates that full-body pressure sensing system could be used to estimate human poses in open environments.
+- Designed and implemented a **pose estimation method** based on full-body pressure data, which demonstrates that full-body pressure sensing system could be used to estimate human poses in open environments.
 
 ## <p style = "color: blue">Publications</p>
 - Liang Z, **Zhang D**, Xu G, et al. Smart Garment: A long-term feasible, whole-body textile pressure sensing system[J]. IEEE Sensors Journal, 2023.
